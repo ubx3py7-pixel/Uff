@@ -26,11 +26,11 @@ from PIL import Image, ImageOps
 
 # ---------------------------FIRE DROP
 TOKENS = [
-    "8320677399:AAEY9DbiaZlCqq6qEesWs5pGLhLlNwUXQcE",
-    "8272155257:AAElZnydU_i_S1HnS72JZ_sUCPNfEPm_xik", 
-    "8199166304:AAFB4zwsjib3m0zm9V1bdw0bPucw50nHvq8",
-    "8275126499:AAGQSqngva9plgmXq4i80p_CkvlLlheIbCU",
-    "8511210915:AAEQFdWb-wePkU4z8Fz4_g-lRh-UZrP6syU",
+    "8061799871:AAHIprGgp0xMf-XM6Tu49TVw0ZofACl__q8",
+    "8257005872:AAFlrcpz2u4WJwiBvIKXZQKGpvRqQI2KU90", 
+    "8215339883:AAE76TcS8K1t_DX8QSoHCC5nJ4O-JtsSzyo",
+    "",
+    "",
     ""
 ]
 
